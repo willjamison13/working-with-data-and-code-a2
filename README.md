@@ -21,7 +21,7 @@ The aim was to develop creative code literacy — understanding how programming 
 ## Setup
 1. Open the .pyde file in Processing (Python Mode).
 2. Click Run ▶️ to start the animation.
-3.The animation will:
+3. The animation will:
 	* Draw the “L” first
 	* Animate the “A” with three layered colors
 	* Reveal the five Olympic rings in sequence
