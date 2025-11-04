@@ -6,13 +6,23 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project recreates and animates the LA28 Olympic logo using Processing.py (Python Mode).
+It explores how coded motion and sequencing can communicate design concepts visually.
+The aim was to develop creative code literacy — understanding how programming structures like loops, functions, and variables can be used artistically to produce animated outcomes.
 	
 ## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* Project is created with:
+* Processing.py (Python Mode for Processing)
+* Python syntax and logic for animation control
+* Coordinate geometry for shape drawing
+* Color lists and layering for the Olympic palette
+* Frame-based sequencing for animation timing
 
 ## Setup
-This project is simple Lorem ipsum dolor generator.
+1. Open the .pyde file in Processing (Python Mode).
+2. Click Run ▶️ to start the animation.
+3.The animation will:
+	* Draw the “L” first
+	* Animate the “A” with three layered colors
+	* Reveal the five Olympic rings in sequence
+4. The sequence automatically loops once complete
